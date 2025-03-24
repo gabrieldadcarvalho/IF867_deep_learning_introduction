@@ -8,4 +8,4 @@ Este repositório é dedicado aos estudos e exercícios práticos realizados dur
 
 ## Contato
 
-Caso tenha dúvidas, sugestões ou queira trocar ideias sobre o conteúdo, sinta-se à vontade para entrar em contato comigo pelo e-mail: [gabrieldadcarvalho@gmail.com](mailto:gabrieldadcarvalho@gmail.com).
+Caso tenha dúvidas, sugestões ou queira trocar ideias sobre o conteúdo, sinta-se à vontade para entrar em contato comigo pelo e-mail: [gabriel.dassumpcao@ufpe.com](mailto:gabriel.dassumpcao@ufpe.com).
